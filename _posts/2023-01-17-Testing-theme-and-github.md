@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This is only a test
-tags: [Katex, Mermaid, Markdown]
+tags: [Site Update]
 categories: Demo
 ---
 

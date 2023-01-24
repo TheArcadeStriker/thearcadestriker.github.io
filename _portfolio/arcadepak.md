@@ -10,7 +10,7 @@ tags: [SRB2Kart]
 
 One of my longest running projects: A set of custom tracks for SRB2Kart, most of them being original but with a few of them being brought over from classic arcade racing games. Probably one of the few things that I've really dedicated a lot of my time (and have returned back to from time to time to keep working on).
 
-<iframe width="1024" height="480" src="https://www.youtube.com/embed/lfom-GhYmec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align: center;"><iframe width="1024" height="480" src="https://www.youtube.com/embed/lfom-GhYmec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 [Latest version (v1.8) available for download here!](https://mb.srb2.org/addons/arcadepak-v1-8-double-trouble.2247/)
 
